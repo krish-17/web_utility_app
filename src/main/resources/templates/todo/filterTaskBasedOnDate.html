@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Filter task</title>
+</head>
+<body>
+<h2>Enter the dates to filter task</h2>
+<form action="#" th:action="@{/todo/filterTaskBasedOnDate}" th:object="${filter}" method="post">
+    <p>Enter Starting date <input type="text" th:field="*{dueDate}"/>
+    <p>Enter Ending date <input type="text" th:field="*{convertedDueDate}"/>
+        <input type="submit" value="Filter"/> <input type="reset" value="Reset"/></p>
+</form>
+</body>
+</html>

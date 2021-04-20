@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>Create Clock</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<h1>Please enter the Alarm details</h1>
+<form th:action="@{/clock/createAlarm}" method="post">
+    <p>name: <input type="text" name="alarmName" required/></p>
+    <p>Enter Alarm Day in MM/dd/yyyy format</p>
+    <p>Date: <input type="text" name="alarmDate" required/></p>
+    <p>Enter Alarm time in this format hh:mm</p>
+    <p>Time: <input type="text" name="alarmTime" required/></p>
+    <p>Notifier Email: <input type="email" name="toAddress" required></p>
+    <p><input type="submit" value="Add Alarm"/> <input type="reset" value="Reset"/></p>
+</form>
+<a href="/WUAMainMenu"> Home </a>
+</body>
+</html>

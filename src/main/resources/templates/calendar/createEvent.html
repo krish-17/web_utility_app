@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Create Event</title>
+</head>
+<body>
+<style type="text/css">
+    label {
+        display: inline-block;
+        width: 400px;
+        margin: 5px;
+        text-align: left;
+    }
+</style>
+<h1>Create Event</h1>
+<form action="#" th:action="@{/calendar/createEvent}" method="post">
+    <label>Event Title</label>
+    <label>
+        <input type="text" name="eventTitle"/>
+    </label><br/>
+    <label>Attendees(separate each email with comma(,))</label>
+    <label>
+        <input type="text" name="attendees"/>
+    </label><br/>
+    <label>Description</label>
+    <label>
+        <input type="text" name="eventDescription"/>
+    </label><br/>
+    <label>Start Time (MM/dd/yyyy HH:mm:ss (24 hours format))</label>
+    <label>
+        <input type="text" name="startTime"/>
+    </label><br/>
+    <label>End Time (MM/dd/yyyy HH:mm:ss (24 hours format))</label>
+    <label>
+        <input type="text" name="endTime"/>
+    </label><br/>
+    <p><input type="submit" value="Submit"/> <input type="reset" value="Reset"/></p>
+</form>
+<h4><a href="/calendar/calendarHomePage">Back to Calendar Home Page</a></h4>
+</body>

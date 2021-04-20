@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>view event</title>
+</head>
+<body>
+<form action="#" th:action="@{/calendar/getAllEvents}" th:object="${}" method="get">
+    <p><input type="submit" value="Display All Task"/></p>
+</form>
+<h4><a href="/calendar/getAllEvents">click here to get all events</a></h4>
+
+</body>
+</html>

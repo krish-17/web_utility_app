@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>Set Task</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<h1>Please enter the task details</h1>
+<form action="#" th:action="@{/todo/setTask}" th:object="${todo}" method="post">
+    <p>Task name <input type="text" th:field="*{taskName}"/></p>
+    <p>Task description <input type="text" th:field="*{taskDescription}"/></p>
+    <p>Task Label <input type="text" th:field="*{taskLabel}"/></p>
+    <p>due Date <input type="text" th:field="*{dueDate}"/></p>
+    <p>
+    <h3>Enter TimeZone Details</h3></p>
+    <p>For EASTERN STANDARD TIME enter : 0</p>
+    <p>For ATLANTIC STANDARD TIME Enter : 1</p>
+    <p>For INDIAN STANDARD TIME Enter : 2</p>
+    <p>For NO TIME : 3</p>
+    <p>User Time Zone <input type="text" th:field="*{userTimezone}"/></p>
+    <p>Enter Time Zone To be converted <input type="text" th:field="*{timeZoneToBeConverted}"/></p>
+
+    <p><input type="submit" value="Add Task"/> <input type="reset" value="Reset"/></p>
+</form>
+</body>
+</html>

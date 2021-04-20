@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>Homepage</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<h1>Result </h1>
+<table>
+    <thead>
+    <tr>
+        <th> TaskId</th>
+        <th> TaskName</th>
+        <th> TaskDescription</th>
+        <th> TaskLabel</th>
+        <th> TaskDueDate</th>
+        <th> UserTimeZone</th>
+        <th> ConvertedTimeZone</th>
+        <th> ConvertedDueDate</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="l : ${list}">
+        <td><span th:text="${l.getTaskID()}"> Title </span></td>
+        <td><span th:text="${l.getTaskName()}"> Title </span></td>
+        <td><span th:text="${l.getTaskDescription()}"> Author </span></td>
+        <td><span th:text="${l.getTaskLabel()}"> Title </span></td>
+        <td><span th:text="${l.getDisplayableDueDate()}"> Title </span></td>
+        <td><span th:text="${l.getUserTimezone()}"> Title </span></td>
+        <td><span th:text="${l.getTimeZoneToBeConverted()}"> Title </span></td>
+        <td><span th:text="${l.getDisplayableConvertedDate()}"> Title </span></td>
+
+    </tr>
+    </tbody>
+</table>
+<h4><a href="/todo/viewTask">click here for another search</a></h4>
+<h4><a href="/todo/filterTaskBasedOnDate">click here for filter task</a></h4>
+<h4><a href="/todo/toDoHomePage">click here for main menu</a></h4>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>Homepage</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<h1>Result </h1>
+<table>
+    <thead>
+    <tr>
+        <th> Clock Name</th>
+        <th> Time Zone</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="l : ${list}">
+        <td><span th:text="${l.getClockName()}"> Title </span></td>
+        <td><span th:text="${l.getTimeZoneName()}"> Title </span></td>
+        <td>
+            <form th:action="@{/clock/getAlarm}" method="get">
+                <p><input type="hidden" th:value="${l.getClockId()}" th:name="clockId"/>
+                    <input type="submit" value="Get Alarms"/></p>
+            </form>
+        </td>
+        <td>
+            <form th:action="@{/clock/displayTime}" method="get">
+                <p><input type="hidden" th:value="${l.getClockId()}" th:name="clockId"/>
+                    <input type="submit" value="Get Time"/></p>
+            </form>
+        </td>
+        <td>
+            <form th:action="@{/clock/createAlarm}" method="get">
+                <p><input type="hidden" th:value="${l.getClockId()}" th:name="clockId"/>
+                    <input type="submit" value="Create Alarm"/></p>
+            </form>
+        </td>
+    </tr>
+    </tbody>
+</table>
+<h4><a href="/clock">main menu</a></h4>
+<a href="/WUAMainMenu"> Home </a>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Result</title>
+</head>
+<body>
+<h5> Hurray. Here are the search results</h5>
+<table>
+    <thead>
+    <tr>
+        <th> Results</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="r : ${results}">
+        <td><span th:text="${r}"> Title </span></td>
+    </tr>
+    </tbody>
+</table>
+<a href="/WUAMainMenu"> Home </a>
+</body>
+</html>

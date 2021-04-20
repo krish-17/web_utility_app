@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>Set Task</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<h1>Please enter the task details to be searched</h1>
+<form action="#" th:action="@{/todo/viewTask}" th:object="${view}" method="post">
+    <p>Task Label <input type="text" th:field="*{taskLabel}"/>
+        <input type="submit" value="Search"/> <input type="reset" value="Reset"/></p>
+</form>
+
+<form action="#" th:action="@{/todo/getAllTask}" th:object="${view}" method="get">
+    <p><input type="submit" value="Display All Task"/></p>
+</form>
+</body>
+</html>

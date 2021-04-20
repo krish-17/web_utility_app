@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>Automatic Task Organizer</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    label {
+        display: inline-block;
+        width: 300px;
+        margin: 5px;
+        text-align: left;
+    }
+</style>
+<h1>Automatic Task Organizer</h1>
+<form action="#" th:action="@{/ato}" th:object="${ato}" method="post">
+    <label>Task Title</label>
+    <label>
+        <input type="text" th:field="*{taskTitle}"/>
+    </label><br/>
+    <h4 style="color:red;"> Enter multiple entries separated by comma(,)</h4>
+    <label>Task Names</label>
+    <label>
+        <input type="text" th:field="*{taskName}" required/>
+    </label><br/>
+    <label>Due Dates (MM/dd/yyyy)</label>
+    <label>
+        <input type="text" th:field="*{dueDate}" required/>
+    </label><br/>
+    <h5 style="color:red;">Enter 0: Low Priority, 1: Medium Priority, 2: Low Priority </h5>
+    <label>Task Difficulty </label>
+    <label>
+        <input type="text" th:field="*{difficulty}" required/>
+    </label><br/>
+    <label>No of Hours you will be Available Per Day</label>
+    <label>
+        <input type="text" th:field="*{hoursAvailablePerDay}" required/>
+    </label><br/>
+    <label>Email Address to which the task need to be sent</label>
+    <label>
+        <input type="email" th:field="*{notifierEmailAddress}" required/>
+    </label><br/>
+    <p><input type="submit" value="Submit"/> <input type="reset" value="Reset"/></p>
+</form>
+<a href="/WUAMainMenu"> Home </a>
+</body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>Homepage</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<h1>Result </h1>
+<table>
+    <thead>
+    <tr>
+        <th> Alarm Name</th>
+        <th> Alarm Time</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="l : ${list}">
+        <td><span th:text="${l.getAlarmName()}"> Title </span></td>
+        <td><span th:text="${l.getDisplayableAlarmTime()}"> Title </span></td>
+        <td>
+            <form th:action="@{/clock/modifyAlarm}" method="post">
+                <p><input type="hidden" th:value="${l.getAlarmName()}" th:name="alarmName"/>
+                    <input type="hidden" th:value="${l.getAlarmId()}" th:name="alarmId"/>
+                    <input type="hidden" th:value="${l.getClockId()}" th:name="clockId"/>
+                    Enter modified Date in MM/dd/YYYY format
+                    <label>
+                        <input type="text" name="modifiedDate" required/>
+                    </label>
+                    Enter modified Time in HH:MM format
+                    <label>
+                        <input type="text" name="modifiedTime" required/>
+                    </label>
+                    <input type="submit" value="Edit Alarm"/>
+                </p>
+            </form>
+        </td>
+        <td>
+            <form th:action="@{/clock/deleteAlarm}" method="get">
+                <p>
+                    <input type="hidden" th:value="${l.getAlarmId()}" th:name="alarmId"/>
+                    <input type="submit" value="Delete Alarm"/>
+                </p>
+            </form>
+        </td>
+    </tr>
+    </tbody>
+</table>
+<h4><a href="/clock">main menu</a></h4>
+<a href="/WUAMainMenu"> Home </a>
+</body>
+</html>

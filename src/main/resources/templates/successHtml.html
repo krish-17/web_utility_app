@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Day ___ Task Names</title>
+</head>
+<body>
+<h5> Hurray. Here is the Organized task view</h5>
+<table>
+    <thead>
+    <tr>
+        <th> Date |||| List of Tasks</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="m : ${message}">
+        <td><span th:text="${m}"> Title </span></td>
+    </tr>
+    </tbody>
+</table>
+<a href="/clock">Main Menu</a>
+<a href="/WUAMainMenu"> Home </a>
+</body>
+</html>

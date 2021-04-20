@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>Homepage</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<h1>Result </h1>
+<table>
+    <thead>
+    <tr>
+        <th> Event Id</th>
+        <th> Event Title</th>
+        <th> Event Attendees</th>
+        <th> Event Description</th>
+        <th> Event StartTime(GMT)</th>
+        <th> Event EndTime(GMT)</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="l : ${list}">
+        <td><span th:text="${l.getEventId()}"> Title </span></td>
+        <td><span th:text="${l.getEventTitle()}"> Title </span></td>
+        <td><span th:text="${l.getAttendees()}"> Title </span></td>
+        <td><span th:text="${l.getEventDescription()}"> Title </span></td>
+        <td><span th:text="${l.getStartTime()}"> Title </span></td>
+        <td><span th:text="${l.getEndTime()}"> Title </span></td>
+    </tr>
+    </tbody>
+</table>
+<h4><a href="/calendar/calendarHomePage">Back to Calendar Home Page</a></h4>
+</body>
+</html>

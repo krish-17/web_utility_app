@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>Delete Task</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<h1>Enter the pattern to search</h1>
+
+<form th:action="@{/search/searchPattern}" method="post">
+
+    <p>Pattern: <input type="text" name="pattern">
+    <p><input type="submit" value="Search"/> <input type="reset" value="Reset"/></p>
+
+</form>
+<h4><a href="/WUAMainMenu">click here for main menu</a></h4>
+</body>
+</html>

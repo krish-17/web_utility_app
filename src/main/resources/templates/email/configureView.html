@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>Email</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<h1>Please enter the SMTP configuration details to send emails.</h1>
+<form th:action="@{/email/smtp/save}" method="post">
+    <label>Email Address
+        <input type="text" name="userEmail"/>
+    </label><br>
+    <label>Password
+        <input type="password" name="password"/>
+    </label>
+    <label>SMTP Host
+        <input type="text" name="smtpHost"/>
+    </label><br>
+    <label>Port Number (SMTP out)
+        <input type="number" name="portNumber"/>
+    </label><br>
+    <input type="submit" value="Configure"/> <input type="reset" value="Reset"/>
+</form>
+</body>
+</html>

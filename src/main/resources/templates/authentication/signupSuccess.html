@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>SignUp Successfully</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<h1>Signed Up successfully!! </h1>
+<p th:text="'Registered Email Id is: ' + ${signup.Email}"/>
+<a href="/authentication/userLogin">Continue to Login</a>
+</body>
+</html>
