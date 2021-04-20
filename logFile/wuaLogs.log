@@ -1,0 +1,442 @@
+[INFO ]2021-04-08 10:23:40.500 [main] WebUtilityAppApplication - Starting WebUtilityAppApplication using Java 15.0.2 on MSI with PID 19632 (C:\group-6\group-6\build\classes\java\main started by parth in C:\group-6\group-6)
+[DEBUG]2021-04-08 10:23:40.500 [main] WebUtilityAppApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ]2021-04-08 10:23:40.500 [main] WebUtilityAppApplication - No active profile set, falling back to default profiles: default
+[INFO ]2021-04-08 10:23:41.979 [main] WebUtilityAppApplication - Started WebUtilityAppApplication in 1.793 seconds (JVM running for 2.629)
+[ERROR]2021-04-08 10:24:31.799 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 10:24:31.883 [Test worker] WebUtilityAppApplication - Error in retrieving event
+[ERROR]2021-04-08 10:24:31.948 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 10:24:31.964 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 10:24:31.964 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 10:24:46.500 [Test worker] WebUtilityAppApplication - Error in retrieving event
+[ERROR]2021-04-08 10:24:46.600 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 10:24:46.722 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 10:24:46.722 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 10:24:46.722 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 10:33:06.930 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 10:33:07.008 [Test worker] WebUtilityAppApplication - Error in retrieving event
+[ERROR]2021-04-08 10:33:07.077 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 10:33:07.077 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 10:33:07.077 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 10:35:11.138 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 10:35:11.201 [Test worker] WebUtilityAppApplication - Error in retrieving event
+[ERROR]2021-04-08 10:35:11.270 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 10:35:11.270 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 10:35:11.270 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 10:36:28.089 [Test worker] WebUtilityAppApplication - Error in retrieving event
+[ERROR]2021-04-08 10:36:28.225 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 10:36:28.336 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 10:36:28.336 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 10:36:28.336 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 10:38:12.015 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 10:38:12.126 [Test worker] WebUtilityAppApplication - Error in retrieving event
+[ERROR]2021-04-08 10:38:12.205 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 10:38:12.205 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 10:38:12.205 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 11:48:05.574 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 11:48:05.645 [Test worker] WebUtilityAppApplication - Error in retrieving event
+[ERROR]2021-04-08 11:48:05.703 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 11:48:05.705 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 11:48:05.714 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 11:53:18.507 [Test worker] WebUtilityAppApplication - Error in retrieving event
+[ERROR]2021-04-08 11:53:18.673 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 11:53:18.761 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 11:53:18.763 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 11:53:18.772 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 12:00:37.508 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 12:00:37.606 [Test worker] WebUtilityAppApplication - Error in retrieving event
+[ERROR]2021-04-08 12:00:37.709 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 12:00:37.715 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 12:00:37.730 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 12:07:23.615 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 12:07:23.726 [Test worker] WebUtilityAppApplication - Error in retrieving event
+[ERROR]2021-04-08 12:07:23.772 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 12:07:23.774 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 12:07:23.784 [Test worker] WebUtilityAppApplication - Invalid parameters
+[INFO ]2021-04-08 12:07:51.914 [main] WebUtilityAppApplication - Starting WebUtilityAppApplication using Java 15.0.1 on MSI with PID 1440 (K:\MACS Winter Term 2021\My projects\csci5308\web utility app\authentication\group-6\build\classes\java\main started by srikr in K:\MACS Winter Term 2021\My projects\csci5308\web utility app\authentication\group-6)
+[DEBUG]2021-04-08 12:07:51.922 [main] WebUtilityAppApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ]2021-04-08 12:07:51.923 [main] WebUtilityAppApplication - No active profile set, falling back to default profiles: default
+[INFO ]2021-04-08 12:07:53.867 [main] WebUtilityAppApplication - Started WebUtilityAppApplication in 2.381 seconds (JVM running for 3.894)
+[INFO ]2021-04-08 12:08:18.707 [http-nio-8080-exec-5] WebUtilityAppApplication - Login Successfully for user: demo@gmail.com
+[INFO ]2021-04-08 12:11:03.097 [main] WebUtilityAppApplication - Starting WebUtilityAppApplication using Java 15.0.1 on MSI with PID 18836 (K:\MACS Winter Term 2021\My projects\csci5308\web utility app\authentication\group-6\build\classes\java\main started by srikr in K:\MACS Winter Term 2021\My projects\csci5308\web utility app\authentication\group-6)
+[DEBUG]2021-04-08 12:11:03.110 [main] WebUtilityAppApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ]2021-04-08 12:11:03.112 [main] WebUtilityAppApplication - No active profile set, falling back to default profiles: default
+[INFO ]2021-04-08 12:11:05.329 [main] WebUtilityAppApplication - Started WebUtilityAppApplication in 2.86 seconds (JVM running for 4.182)
+[INFO ]2021-04-08 12:12:47.031 [main] WebUtilityAppApplication - Starting WebUtilityAppApplication using Java 15.0.1 on MSI with PID 14468 (K:\MACS Winter Term 2021\My projects\csci5308\web utility app\authentication\group-6\build\classes\java\main started by srikr in K:\MACS Winter Term 2021\My projects\csci5308\web utility app\authentication\group-6)
+[DEBUG]2021-04-08 12:12:47.042 [main] WebUtilityAppApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ]2021-04-08 12:12:47.043 [main] WebUtilityAppApplication - No active profile set, falling back to default profiles: default
+[INFO ]2021-04-08 12:12:48.952 [main] WebUtilityAppApplication - Started WebUtilityAppApplication in 2.409 seconds (JVM running for 3.438)
+[INFO ]2021-04-08 12:13:36.325 [main] WebUtilityAppApplication - Starting WebUtilityAppApplication using Java 15.0.1 on MSI with PID 16616 (K:\MACS Winter Term 2021\My projects\csci5308\web utility app\authentication\group-6\build\classes\java\main started by srikr in K:\MACS Winter Term 2021\My projects\csci5308\web utility app\authentication\group-6)
+[DEBUG]2021-04-08 12:13:36.344 [main] WebUtilityAppApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ]2021-04-08 12:13:36.349 [main] WebUtilityAppApplication - No active profile set, falling back to default profiles: default
+[INFO ]2021-04-08 12:13:37.887 [main] WebUtilityAppApplication - Started WebUtilityAppApplication in 1.903 seconds (JVM running for 2.984)
+[INFO ]2021-04-08 12:17:31.922 [main] WebUtilityAppApplication - Starting WebUtilityAppApplication using Java 15.0.1 on MSI with PID 8780 (K:\MACS Winter Term 2021\My projects\csci5308\web utility app\authentication\group-6\build\classes\java\main started by srikr in K:\MACS Winter Term 2021\My projects\csci5308\web utility app\authentication\group-6)
+[DEBUG]2021-04-08 12:17:31.932 [main] WebUtilityAppApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ]2021-04-08 12:17:31.933 [main] WebUtilityAppApplication - No active profile set, falling back to default profiles: default
+[INFO ]2021-04-08 12:17:33.894 [main] WebUtilityAppApplication - Started WebUtilityAppApplication in 2.31 seconds (JVM running for 3.387)
+[INFO ]2021-04-08 12:18:22.988 [main] WebUtilityAppApplication - Starting WebUtilityAppApplication using Java 15.0.1 on MSI with PID 6940 (K:\MACS Winter Term 2021\My projects\csci5308\web utility app\authentication\group-6\build\classes\java\main started by srikr in K:\MACS Winter Term 2021\My projects\csci5308\web utility app\authentication\group-6)
+[DEBUG]2021-04-08 12:18:22.995 [main] WebUtilityAppApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ]2021-04-08 12:18:22.996 [main] WebUtilityAppApplication - No active profile set, falling back to default profiles: default
+[INFO ]2021-04-08 12:18:24.743 [main] WebUtilityAppApplication - Started WebUtilityAppApplication in 2.125 seconds (JVM running for 3.165)
+[INFO ]2021-04-08 12:19:06.687 [main] WebUtilityAppApplication - Starting WebUtilityAppApplication using Java 15.0.1 on MSI with PID 12264 (K:\MACS Winter Term 2021\My projects\csci5308\web utility app\authentication\group-6\build\classes\java\main started by srikr in K:\MACS Winter Term 2021\My projects\csci5308\web utility app\authentication\group-6)
+[DEBUG]2021-04-08 12:19:06.694 [main] WebUtilityAppApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ]2021-04-08 12:19:06.695 [main] WebUtilityAppApplication - No active profile set, falling back to default profiles: default
+[INFO ]2021-04-08 12:19:08.418 [main] WebUtilityAppApplication - Started WebUtilityAppApplication in 1.996 seconds (JVM running for 3.065)
+[INFO ]2021-04-08 20:47:52.231 [main] WebUtilityAppApplication - Starting WebUtilityAppApplication using Java 15.0.1 on MSI with PID 18336 (K:\MACS Winter Term 2021\My projects\New folder\group-6-39c3295b14acab35211a406ec249093cd615809d\group-6-39c3295b14acab35211a406ec249093cd615809d\build\classes\java\main started by srikr in K:\MACS Winter Term 2021\My projects\New folder\group-6-39c3295b14acab35211a406ec249093cd615809d\group-6-39c3295b14acab35211a406ec249093cd615809d)
+[DEBUG]2021-04-08 20:47:52.240 [main] WebUtilityAppApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ]2021-04-08 20:47:52.241 [main] WebUtilityAppApplication - No active profile set, falling back to default profiles: default
+[INFO ]2021-04-08 20:48:36.715 [main] WebUtilityAppApplication - Starting WebUtilityAppApplication using Java 15.0.1 on MSI with PID 16240 (K:\MACS Winter Term 2021\My projects\New folder\group-6-39c3295b14acab35211a406ec249093cd615809d\group-6-39c3295b14acab35211a406ec249093cd615809d\build\classes\java\main started by srikr in K:\MACS Winter Term 2021\My projects\New folder\group-6-39c3295b14acab35211a406ec249093cd615809d\group-6-39c3295b14acab35211a406ec249093cd615809d)
+[DEBUG]2021-04-08 20:48:36.719 [main] WebUtilityAppApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ]2021-04-08 20:48:36.720 [main] WebUtilityAppApplication - No active profile set, falling back to default profiles: default
+[INFO ]2021-04-08 20:48:37.813 [main] WebUtilityAppApplication - Started WebUtilityAppApplication in 1.345 seconds (JVM running for 2.355)
+[INFO ]2021-04-08 20:48:52.662 [http-nio-8080-exec-6] WebUtilityAppApplication - Login Successfully for user: demo@gmail.com
+[INFO ]2021-04-08 20:49:30.579 [http-nio-8080-exec-8] WebUtilityAppApplication - select * from clock_meta where userId='1617564021343'
+[INFO ]2021-04-08 20:55:55.143 [http-nio-8080-exec-1] WebUtilityAppApplication - insert into clock_meta values('1617564021343','1617895552565','hello',0)
+[INFO ]2021-04-08 20:55:57.405 [http-nio-8080-exec-1] WebUtilityAppApplication - {password=Dec@5091, smtpHost=smtp.gmail.com, userEmail=integtester95@gmail.com, userId=1617564021343, portNumber=587}
+[ERROR]2021-04-08 20:59:04.251 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 20:59:04.324 [Test worker] WebUtilityAppApplication - Error in retrieving event
+[ERROR]2021-04-08 20:59:04.359 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 20:59:04.362 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 20:59:04.371 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 21:00:32.906 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 21:00:33.015 [Test worker] WebUtilityAppApplication - Error in retrieving event
+[ERROR]2021-04-08 21:00:33.058 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 21:00:33.061 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 21:00:33.076 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 21:01:13.476 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 21:01:13.534 [Test worker] WebUtilityAppApplication - Error in retrieving event
+[ERROR]2021-04-08 21:01:13.573 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 21:01:13.575 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 21:01:13.582 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 21:02:53.294 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 21:02:53.301 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-08 21:02:53.303 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-08 21:02:53.304 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[ERROR]2021-04-08 21:02:53.368 [Test worker] WebUtilityAppApplication - Error in retrieving event
+[ERROR]2021-04-08 21:02:53.399 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 21:02:53.400 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 21:02:53.409 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 21:03:42.770 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 21:03:42.777 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-08 21:03:42.778 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-08 21:03:42.779 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[ERROR]2021-04-08 21:03:42.839 [Test worker] WebUtilityAppApplication - Error in retrieving event
+[ERROR]2021-04-08 21:03:42.867 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 21:03:42.868 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 21:03:42.880 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 21:06:14.602 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 21:06:14.609 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-08 21:06:14.611 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-08 21:06:14.612 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[ERROR]2021-04-08 21:06:14.683 [Test worker] WebUtilityAppApplication - Error in retrieving event
+[ERROR]2021-04-08 21:06:14.718 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 21:06:14.722 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 21:06:14.733 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 21:15:31.743 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 21:15:31.758 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-08 21:15:31.761 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-08 21:15:31.763 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[ERROR]2021-04-08 21:15:31.836 [Test worker] WebUtilityAppApplication - Error in retrieving event
+[ERROR]2021-04-08 21:15:31.883 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 21:15:31.885 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 21:15:31.892 [Test worker] WebUtilityAppApplication - Invalid parameters
+[INFO ]2021-04-08 21:25:37.317 [main] WebUtilityAppApplication - Starting WebUtilityAppApplication using Java 15.0.1 on MSI with PID 2744 (K:\MACS Winter Term 2021\My projects\New folder\group-6-39c3295b14acab35211a406ec249093cd615809d\group-6-39c3295b14acab35211a406ec249093cd615809d\build\classes\java\main started by srikr in K:\MACS Winter Term 2021\My projects\New folder\group-6-39c3295b14acab35211a406ec249093cd615809d\group-6-39c3295b14acab35211a406ec249093cd615809d)
+[DEBUG]2021-04-08 21:25:37.322 [main] WebUtilityAppApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ]2021-04-08 21:25:37.323 [main] WebUtilityAppApplication - No active profile set, falling back to default profiles: default
+[INFO ]2021-04-08 21:25:38.537 [main] WebUtilityAppApplication - Started WebUtilityAppApplication in 1.504 seconds (JVM running for 2.268)
+[INFO ]2021-04-08 22:00:48.504 [main] WebUtilityAppApplication - Starting WebUtilityAppApplication using Java 15.0.1 on MSI with PID 880 (K:\MACS Winter Term 2021\My projects\New folder\group-6\build\classes\java\main started by srikr in K:\MACS Winter Term 2021\My projects\New folder\group-6)
+[DEBUG]2021-04-08 22:00:48.510 [main] WebUtilityAppApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ]2021-04-08 22:00:48.510 [main] WebUtilityAppApplication - No active profile set, falling back to default profiles: default
+[INFO ]2021-04-08 22:00:50.022 [main] WebUtilityAppApplication - Started WebUtilityAppApplication in 2.602 seconds (JVM running for 3.728)
+[INFO ]2021-04-08 22:01:25.436 [http-nio-8080-exec-5] WebUtilityAppApplication - Login Successfully for user: demo@gmail.com
+[INFO ]2021-04-08 22:03:01.122 [http-nio-8080-exec-10] WebUtilityAppApplication - select * from clock_meta where userId='1617564021343'
+[INFO ]2021-04-08 22:03:21.008 [http-nio-8080-exec-8] WebUtilityAppApplication - select * from clock_meta where clockId = '1617570017430'
+[INFO ]2021-04-08 22:03:25.491 [http-nio-8080-exec-8] WebUtilityAppApplication - {password=Dec@5091, smtpHost=smtp.gmail.com, userEmail=integtester95@gmail.com, userId=1617564021343, portNumber=587}
+[INFO ]2021-04-08 22:03:36.817 [http-nio-8080-exec-4] WebUtilityAppApplication - select * from clock_meta where userId='1617564021343'
+[INFO ]2021-04-08 22:03:43.807 [http-nio-8080-exec-1] WebUtilityAppApplication - select * from clock_meta where clockId = '1617570017430'
+[INFO ]2021-04-08 22:03:56.788 [http-nio-8080-exec-8] WebUtilityAppApplication - select * from clock_meta where userId='1617564021343'
+[INFO ]2021-04-08 22:04:34.170 [http-nio-8080-exec-7] WebUtilityAppApplication - {password=Dec@5091, smtpHost=smtp.gmail.com, userEmail=integtester95@gmail.com, userId=1617564021343, portNumber=587}
+[INFO ]2021-04-08 22:05:29.581 [http-nio-8080-exec-2] WebUtilityAppApplication - {password=Dec@5091, smtpHost=smtp.gmail.com, userEmail=integtester95@gmail.com, userId=1617564021343, portNumber=587}
+[INFO ]2021-04-08 22:05:57.997 [http-nio-8080-exec-7] WebUtilityAppApplication - {password=Dec@5091, smtpHost=smtp.gmail.com, userEmail=integtester95@gmail.com, userId=1617564021343, portNumber=587}
+[ERROR]2021-04-08 22:13:52.327 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 22:13:52.335 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-08 22:13:52.338 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-08 22:13:52.340 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[ERROR]2021-04-08 22:13:52.471 [Test worker] WebUtilityAppApplication - Error in retrieving event
+[ERROR]2021-04-08 22:13:52.560 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 22:13:52.564 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 22:13:52.584 [Test worker] WebUtilityAppApplication - Invalid parameters
+[INFO ]2021-04-08 22:23:22.909 [Test worker] WebUtilityAppApplication - Successfully getting events
+[INFO ]2021-04-08 22:23:22.917 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-08 22:23:22.919 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-08 22:23:22.925 [Test worker] WebUtilityAppApplication - Successfully validated
+[ERROR]2021-04-08 22:23:22.927 [Test worker] WebUtilityAppApplication - Error in creating event
+[ERROR]2021-04-08 22:23:22.929 [Test worker] WebUtilityAppApplication - calendar is null
+[ERROR]2021-04-08 22:23:39.168 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 22:23:39.178 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-08 22:23:39.181 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-08 22:23:39.183 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[INFO ]2021-04-08 22:23:39.266 [Test worker] WebUtilityAppApplication - Successfully getting events
+[INFO ]2021-04-08 22:23:39.267 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-08 22:23:39.269 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-08 22:23:39.273 [Test worker] WebUtilityAppApplication - Successfully validated
+[ERROR]2021-04-08 22:23:39.275 [Test worker] WebUtilityAppApplication - Error in creating event
+[ERROR]2021-04-08 22:23:39.277 [Test worker] WebUtilityAppApplication - calendar is null
+[ERROR]2021-04-08 22:23:39.313 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 22:23:39.316 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 22:23:39.331 [Test worker] WebUtilityAppApplication - Invalid parameters
+[INFO ]2021-04-08 22:23:39.365 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-08 22:23:39.368 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-08 22:24:57.002 [main] WebUtilityAppApplication - Starting WebUtilityAppApplication using Java 15.0.2 on LAPTOP-UE5GT14O with PID 4192 (E:\backup5308\group-6\build\classes\java\main started by LENOVO in E:\backup5308\group-6)
+[DEBUG]2021-04-08 22:24:57.016 [main] WebUtilityAppApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ]2021-04-08 22:24:57.017 [main] WebUtilityAppApplication - No active profile set, falling back to default profiles: default
+[INFO ]2021-04-08 22:24:58.104 [main] WebUtilityAppApplication - Started WebUtilityAppApplication in 1.413 seconds (JVM running for 1.968)
+[INFO ]2021-04-08 22:25:21.803 [http-nio-8080-exec-3] WebUtilityAppApplication - Login Successfully for user: demo@gmail.com
+[INFO ]2021-04-08 22:25:47.736 [http-nio-8080-exec-4] WebUtilityAppApplication - {password=Dec@5091, smtpHost=smtp.gmail.com, userEmail=integtester95@gmail.com, userId=1617564021343, portNumber=587}
+[ERROR]2021-04-08 22:25:51.433 [http-nio-8080-exec-4] WebUtilityAppApplication - 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbs
+534-5.7.14 ztQk48WSeVmVkPVhtJ7IVcXjS3xcjcvF2G4db53BWeUjs3oHTLiF43dLKJAKza3bEHTee
+534-5.7.14 dkehAxAegiTXxdyimYdwvqHwT8MDhsHLd_7gMquNySKhJR5CMxgy9cBJHZ2DDolh>
+534-5.7.14 Please log in via your web browser and then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 gv18sm5159pjb.41 - gsmtp
+
+[INFO ]2021-04-08 22:25:51.433 [http-nio-8080-exec-4] WebUtilityAppApplication - 1617564021343attantisriram@gmail.comdemodemo testing
+[INFO ]2021-04-08 22:25:51.434 [http-nio-8080-exec-4] WebUtilityAppApplication - Successfully validated
+[INFO ]2021-04-08 22:25:53.565 [http-nio-8080-exec-4] WebUtilityAppApplication - Inserted Event Successfully
+[INFO ]2021-04-08 22:26:00.867 [http-nio-8080-exec-8] WebUtilityAppApplication - Successfully retrieved logs
+[INFO ]2021-04-08 22:26:07.700 [http-nio-8080-exec-10] WebUtilityAppApplication - Successfully retrieved logs
+[INFO ]2021-04-08 22:26:19.940 [http-nio-8080-exec-2] WebUtilityAppApplication - Deleted Event Successfully
+[INFO ]2021-04-08 22:28:23.256 [http-nio-8080-exec-3] WebUtilityAppApplication - Successfully retrieved logs
+[INFO ]2021-04-08 22:28:23.256 [http-nio-8080-exec-3] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-08 22:28:52.534 [http-nio-8080-exec-9] WebUtilityAppApplication - Successfully retrieved logs
+[INFO ]2021-04-08 22:28:52.535 [http-nio-8080-exec-9] WebUtilityAppApplication - Successfully received users title and description
+[ERROR]2021-04-08 23:18:43.976 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-08 23:18:44.027 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-08 23:18:44.048 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-08 23:18:44.058 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[INFO ]2021-04-08 23:18:44.354 [Test worker] WebUtilityAppApplication - Successfully getting events
+[INFO ]2021-04-08 23:18:44.357 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-08 23:18:44.359 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-08 23:18:44.380 [Test worker] WebUtilityAppApplication - Successfully validated
+[ERROR]2021-04-08 23:18:44.385 [Test worker] WebUtilityAppApplication - Error in creating event
+[ERROR]2021-04-08 23:18:44.395 [Test worker] WebUtilityAppApplication - calendar is null
+[ERROR]2021-04-08 23:18:44.499 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 23:18:44.530 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-08 23:18:44.575 [Test worker] WebUtilityAppApplication - Invalid parameters
+[INFO ]2021-04-08 23:18:44.696 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-08 23:18:44.709 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 00:48:40.276 [main] WebUtilityAppApplication - Starting WebUtilityAppApplication using Java 15.0.1 on MSI with PID 11332 (K:\MACS Winter Term 2021\My projects\csci5308\web utility app\authentication\group-6\build\classes\java\main started by srikr in K:\MACS Winter Term 2021\My projects\csci5308\web utility app\authentication\group-6)
+[DEBUG]2021-04-09 00:48:40.287 [main] WebUtilityAppApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ]2021-04-09 00:48:40.288 [main] WebUtilityAppApplication - No active profile set, falling back to default profiles: default
+[INFO ]2021-04-09 00:48:41.929 [main] WebUtilityAppApplication - Started WebUtilityAppApplication in 2.145 seconds (JVM running for 4.611)
+[INFO ]2021-04-09 00:49:01.470 [http-nio-8080-exec-4] WebUtilityAppApplication - Login Successfully for user: demo@gmail.com
+[INFO ]2021-04-09 02:18:37.946 [main] WebUtilityAppApplication - Starting WebUtilityAppApplication using Java 15.0.1 on MSI with PID 21960 (K:\MACS Winter Term 2021\My projects\csci5308\web utility app\authentication\group-6\build\classes\java\main started by srikr in K:\MACS Winter Term 2021\My projects\csci5308\web utility app\authentication\group-6)
+[DEBUG]2021-04-09 02:18:37.955 [main] WebUtilityAppApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ]2021-04-09 02:18:37.956 [main] WebUtilityAppApplication - No active profile set, falling back to default profiles: default
+[INFO ]2021-04-09 02:18:39.761 [main] WebUtilityAppApplication - Started WebUtilityAppApplication in 2.197 seconds (JVM running for 3.34)
+[INFO ]2021-04-09 02:19:06.387 [http-nio-8080-exec-10] WebUtilityAppApplication - Login Successfully for user: demo@gmail.com
+[INFO ]2021-04-09 02:19:27.648 [http-nio-8080-exec-4] WebUtilityAppApplication - select * from clock_meta where userId='1617564021343'
+[INFO ]2021-04-09 02:19:34.672 [http-nio-8080-exec-6] WebUtilityAppApplication - select * from clock_meta where clockId = '1617570017430'
+[INFO ]2021-04-09 02:21:50.326 [http-nio-8080-exec-6] WebUtilityAppApplication - {password=Dec@5091, smtpHost=smtp.gmail.com, userEmail=integtester95@gmail.com, userId=1617564021343, portNumber=587}
+[INFO ]2021-04-09 02:28:53.665 [http-nio-8080-exec-7] WebUtilityAppApplication - select * from clock_meta where userId='1617564021343'
+[INFO ]2021-04-09 02:29:07.689 [http-nio-8080-exec-8] WebUtilityAppApplication - select * from clock_meta where clockId = '1617570017430'
+[INFO ]2021-04-09 02:29:25.943 [http-nio-8080-exec-10] WebUtilityAppApplication - select * from clock_meta where clockId = '1617570017430'
+[INFO ]2021-04-09 02:29:34.019 [http-nio-8080-exec-3] WebUtilityAppApplication - select * from clock_meta where userId='1617564021343'
+[INFO ]2021-04-09 02:30:03.433 [http-nio-8080-exec-8] WebUtilityAppApplication - select * from clock_meta where clockId = '1617570017430'
+[INFO ]2021-04-09 02:30:08.691 [http-nio-8080-exec-8] WebUtilityAppApplication - {password=Dec@5091, smtpHost=smtp.gmail.com, userEmail=integtester95@gmail.com, userId=1617564021343, portNumber=587}
+[INFO ]2021-04-09 02:30:18.396 [http-nio-8080-exec-10] WebUtilityAppApplication - select * from clock_meta where userId='1617564021343'
+[INFO ]2021-04-09 02:30:23.727 [http-nio-8080-exec-5] WebUtilityAppApplication - select * from clock_meta where clockId = '1617570017430'
+[INFO ]2021-04-09 02:30:36.863 [http-nio-8080-exec-7] WebUtilityAppApplication - select * from clock_meta where userId='1617564021343'
+[INFO ]2021-04-09 02:30:41.344 [http-nio-8080-exec-9] WebUtilityAppApplication - select * from clock_meta where clockId = '1617570017430'
+[INFO ]2021-04-09 02:30:51.846 [http-nio-8080-exec-2] WebUtilityAppApplication - select * from clock_meta where userId='1617564021343'
+[INFO ]2021-04-09 02:30:57.241 [http-nio-8080-exec-10] WebUtilityAppApplication - select * from clock_meta where clockId = '1617744097700'
+[INFO ]2021-04-09 02:31:07.598 [http-nio-8080-exec-5] WebUtilityAppApplication - select * from clock_meta where userId='1617564021343'
+[INFO ]2021-04-09 02:31:12.562 [http-nio-8080-exec-3] WebUtilityAppApplication - select * from clock_meta where clockId = '1617874422536'
+[ERROR]2021-04-09 03:37:43.011 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-09 03:37:43.039 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-09 03:37:43.042 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-09 03:37:43.045 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[INFO ]2021-04-09 03:37:43.281 [Test worker] WebUtilityAppApplication - Successfully getting events
+[INFO ]2021-04-09 03:37:43.284 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 03:37:43.289 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 03:37:43.301 [Test worker] WebUtilityAppApplication - Successfully validated
+[ERROR]2021-04-09 03:37:43.305 [Test worker] WebUtilityAppApplication - Error in creating event
+[ERROR]2021-04-09 03:37:43.308 [Test worker] WebUtilityAppApplication - calendar is null
+[ERROR]2021-04-09 03:37:43.433 [Test worker] WebUtilityAppApplication - Invalid Time zone Id
+[ERROR]2021-04-09 03:37:43.444 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 03:37:43.448 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 03:37:43.450 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 03:37:43.490 [Test worker] WebUtilityAppApplication - Invalid parameters
+[INFO ]2021-04-09 03:37:43.575 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 03:37:43.582 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[ERROR]2021-04-09 03:41:51.191 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-09 03:41:51.204 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-09 03:41:51.207 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-09 03:41:51.210 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[INFO ]2021-04-09 03:41:51.322 [Test worker] WebUtilityAppApplication - Successfully getting events
+[INFO ]2021-04-09 03:41:51.324 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 03:41:51.326 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 03:41:51.333 [Test worker] WebUtilityAppApplication - Successfully validated
+[ERROR]2021-04-09 03:41:51.335 [Test worker] WebUtilityAppApplication - Error in creating event
+[ERROR]2021-04-09 03:41:51.337 [Test worker] WebUtilityAppApplication - calendar is null
+[ERROR]2021-04-09 03:41:51.393 [Test worker] WebUtilityAppApplication - Invalid Time zone Id
+[ERROR]2021-04-09 03:41:51.399 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 03:41:51.402 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 03:41:51.404 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 03:41:51.420 [Test worker] WebUtilityAppApplication - Invalid parameters
+[INFO ]2021-04-09 03:41:51.442 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 03:41:51.445 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[ERROR]2021-04-09 03:43:03.522 [Test worker] WebUtilityAppApplication - Invalid Time zone Id
+[ERROR]2021-04-09 03:43:03.541 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 03:43:03.546 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 03:43:03.547 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 03:43:03.603 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 03:44:40.234 [Test worker] WebUtilityAppApplication - Invalid Time zone Id
+[ERROR]2021-04-09 03:44:40.255 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 03:44:40.257 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 03:44:46.683 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-09 03:44:46.691 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-09 03:44:46.693 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-09 03:44:46.696 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[INFO ]2021-04-09 03:44:46.786 [Test worker] WebUtilityAppApplication - Successfully getting events
+[INFO ]2021-04-09 03:44:46.787 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 03:44:46.788 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 03:44:46.791 [Test worker] WebUtilityAppApplication - Successfully validated
+[ERROR]2021-04-09 03:44:46.793 [Test worker] WebUtilityAppApplication - Error in creating event
+[ERROR]2021-04-09 03:44:46.795 [Test worker] WebUtilityAppApplication - calendar is null
+[ERROR]2021-04-09 03:44:46.834 [Test worker] WebUtilityAppApplication - Invalid Time zone Id
+[ERROR]2021-04-09 03:44:46.840 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 03:44:46.841 [Test worker] WebUtilityAppApplication - Invalid parameters
+[INFO ]2021-04-09 03:44:46.874 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 03:44:46.876 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[ERROR]2021-04-09 04:10:41.524 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-09 04:10:41.548 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-09 04:10:41.550 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-09 04:10:41.552 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[ERROR]2021-04-09 04:27:23.143 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-09 04:27:23.150 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-09 04:27:23.152 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-09 04:27:23.154 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[ERROR]2021-04-09 04:27:23.222 [Test worker] WebUtilityAppApplication - eventId is null
+[INFO ]2021-04-09 04:27:23.232 [Test worker] WebUtilityAppApplication - Successfully getting events
+[INFO ]2021-04-09 04:27:23.233 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 04:27:23.235 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 04:27:23.239 [Test worker] WebUtilityAppApplication - Successfully validated
+[ERROR]2021-04-09 04:27:23.241 [Test worker] WebUtilityAppApplication - Error in creating event
+[ERROR]2021-04-09 04:27:23.242 [Test worker] WebUtilityAppApplication - calendar is null
+[ERROR]2021-04-09 04:27:23.285 [Test worker] WebUtilityAppApplication - Invalid Time zone Id
+[ERROR]2021-04-09 04:27:23.292 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 04:27:23.294 [Test worker] WebUtilityAppApplication - Invalid parameters
+[INFO ]2021-04-09 04:27:23.337 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 04:27:23.341 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 04:27:52.352 [main] WebUtilityAppApplication - Starting WebUtilityAppApplication using Java 15.0.2 on LAPTOP-UE5GT14O with PID 8612 (E:\08042021\group-6\build\classes\java\main started by LENOVO in E:\08042021\group-6)
+[DEBUG]2021-04-09 04:27:52.356 [main] WebUtilityAppApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ]2021-04-09 04:27:52.357 [main] WebUtilityAppApplication - No active profile set, falling back to default profiles: default
+[INFO ]2021-04-09 04:27:53.230 [main] WebUtilityAppApplication - Started WebUtilityAppApplication in 1.053 seconds (JVM running for 1.581)
+[INFO ]2021-04-09 04:30:34.104 [main] WebUtilityAppApplication - Starting WebUtilityAppApplication using Java 15.0.2 on LAPTOP-UE5GT14O with PID 14260 (E:\08042021\group-6\build\classes\java\main started by LENOVO in E:\08042021\group-6)
+[DEBUG]2021-04-09 04:30:34.108 [main] WebUtilityAppApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ]2021-04-09 04:30:34.108 [main] WebUtilityAppApplication - No active profile set, falling back to default profiles: default
+[INFO ]2021-04-09 04:30:34.964 [main] WebUtilityAppApplication - Started WebUtilityAppApplication in 1.034 seconds (JVM running for 1.544)
+[INFO ]2021-04-09 04:31:31.275 [http-nio-8080-exec-3] WebUtilityAppApplication - Signup Successfully for user: sri@gmail.com
+[INFO ]2021-04-09 04:31:58.845 [http-nio-8080-exec-8] WebUtilityAppApplication - password changed successfully for user: sri@gmail.com
+[INFO ]2021-04-09 04:32:23.130 [http-nio-8080-exec-9] WebUtilityAppApplication - Login Successfully for user: sri@gmail.com
+[ERROR]2021-04-09 04:32:46.348 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-09 04:32:46.354 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-09 04:32:46.357 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-09 04:32:46.359 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[ERROR]2021-04-09 04:32:46.428 [Test worker] WebUtilityAppApplication - eventId is null
+[INFO ]2021-04-09 04:32:46.435 [Test worker] WebUtilityAppApplication - Successfully getting events
+[INFO ]2021-04-09 04:32:46.437 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 04:32:46.438 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 04:32:46.440 [Test worker] WebUtilityAppApplication - Successfully validated
+[ERROR]2021-04-09 04:32:46.442 [Test worker] WebUtilityAppApplication - Error in creating event
+[ERROR]2021-04-09 04:32:46.443 [Test worker] WebUtilityAppApplication - calendar is null
+[ERROR]2021-04-09 04:32:46.477 [Test worker] WebUtilityAppApplication - Invalid Time zone Id
+[ERROR]2021-04-09 04:32:46.487 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 04:32:46.488 [Test worker] WebUtilityAppApplication - Invalid parameters
+[INFO ]2021-04-09 04:32:46.521 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 04:32:46.523 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[ERROR]2021-04-09 04:46:56.881 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-09 04:46:56.886 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-09 04:46:56.889 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-09 04:46:56.891 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[INFO ]2021-04-09 04:46:56.947 [Test worker] WebUtilityAppApplication - Successfully getting events
+[INFO ]2021-04-09 04:46:56.948 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 04:46:56.949 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 04:46:56.951 [Test worker] WebUtilityAppApplication - Successfully validated
+[ERROR]2021-04-09 04:46:56.952 [Test worker] WebUtilityAppApplication - Error in creating event
+[ERROR]2021-04-09 04:46:56.953 [Test worker] WebUtilityAppApplication - calendar is null
+[ERROR]2021-04-09 04:46:56.980 [Test worker] WebUtilityAppApplication - Invalid Time zone Id
+[ERROR]2021-04-09 04:46:56.986 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 04:46:56.988 [Test worker] WebUtilityAppApplication - Invalid parameters
+[INFO ]2021-04-09 04:46:57.021 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 04:46:57.023 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[ERROR]2021-04-09 05:16:14.701 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-09 05:16:14.708 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-09 05:16:14.710 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-09 05:16:14.712 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[ERROR]2021-04-09 05:16:45.888 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-09 05:16:45.896 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-09 05:16:45.898 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-09 05:16:45.899 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[INFO ]2021-04-09 05:25:58.634 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 05:25:58.642 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 05:25:58.644 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[ERROR]2021-04-09 05:27:28.998 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-09 05:27:29.006 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-09 05:27:29.010 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-09 05:27:29.012 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[INFO ]2021-04-09 05:27:29.083 [Test worker] WebUtilityAppApplication - Successfully getting events
+[INFO ]2021-04-09 05:27:29.084 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 05:27:29.085 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 05:27:29.089 [Test worker] WebUtilityAppApplication - Successfully validated
+[ERROR]2021-04-09 05:27:29.091 [Test worker] WebUtilityAppApplication - Error in creating event
+[ERROR]2021-04-09 05:27:29.092 [Test worker] WebUtilityAppApplication - calendar is null
+[ERROR]2021-04-09 05:27:29.131 [Test worker] WebUtilityAppApplication - Invalid Time zone Id
+[ERROR]2021-04-09 05:27:29.139 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 05:27:29.142 [Test worker] WebUtilityAppApplication - Invalid parameters
+[INFO ]2021-04-09 05:27:29.183 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 05:27:29.184 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 05:27:29.186 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[ERROR]2021-04-09 05:27:52.576 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-09 05:27:52.583 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-09 05:27:52.586 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-09 05:27:52.588 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[INFO ]2021-04-09 05:27:52.661 [Test worker] WebUtilityAppApplication - Successfully getting events
+[INFO ]2021-04-09 05:27:52.662 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 05:27:52.663 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 05:27:52.666 [Test worker] WebUtilityAppApplication - Successfully validated
+[ERROR]2021-04-09 05:27:52.668 [Test worker] WebUtilityAppApplication - Error in creating event
+[ERROR]2021-04-09 05:27:52.670 [Test worker] WebUtilityAppApplication - calendar is null
+[ERROR]2021-04-09 05:27:52.711 [Test worker] WebUtilityAppApplication - Invalid Time zone Id
+[ERROR]2021-04-09 05:27:52.717 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 05:27:52.719 [Test worker] WebUtilityAppApplication - Invalid parameters
+[INFO ]2021-04-09 05:27:52.761 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 05:27:52.763 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 05:27:52.764 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 05:27:58.380 [main] WebUtilityAppApplication - Starting WebUtilityAppApplication using Java 15.0.2 on LAPTOP-UE5GT14O with PID 6884 (E:\08042021\group-6\build\classes\java\main started by LENOVO in E:\08042021\group-6)
+[DEBUG]2021-04-09 05:27:58.384 [main] WebUtilityAppApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ]2021-04-09 05:27:58.384 [main] WebUtilityAppApplication - No active profile set, falling back to default profiles: default
+[INFO ]2021-04-09 05:27:59.262 [main] WebUtilityAppApplication - Started WebUtilityAppApplication in 1.061 seconds (JVM running for 1.592)
+[INFO ]2021-04-09 05:28:43.800 [http-nio-8080-exec-4] WebUtilityAppApplication - Signup Successfully for user: parth@gmail.com
+[INFO ]2021-04-09 05:29:10.551 [http-nio-8080-exec-3] WebUtilityAppApplication - password changed successfully for user: parth@gmail.com
+[INFO ]2021-04-09 05:29:32.525 [http-nio-8080-exec-9] WebUtilityAppApplication - Login Successfully for user: parth@gmail.com
+[INFO ]2021-04-09 05:29:54.551 [http-nio-8080-exec-5] WebUtilityAppApplication - select * from clock_meta where userId='1617926323539'
+[INFO ]2021-04-09 05:30:33.086 [http-nio-8080-exec-7] WebUtilityAppApplication - Successfully retrieved logs
+[INFO ]2021-04-09 05:30:46.971 [http-nio-8080-exec-8] WebUtilityAppApplication - Successfully retrieved logs
+[INFO ]2021-04-09 05:30:46.971 [http-nio-8080-exec-8] WebUtilityAppApplication - Successfully received users title and description
+[ERROR]2021-04-09 05:33:13.838 [Test worker] WebUtilityAppApplication - Unparseable date: "05/24/2021 "
+[ERROR]2021-04-09 05:33:13.845 [Test worker] WebUtilityAppApplication - Unparseable date: "05/26/2021"
+[ERROR]2021-04-09 05:33:13.847 [Test worker] WebUtilityAppApplication - Unparseable date: "#"
+[ERROR]2021-04-09 05:33:13.850 [Test worker] WebUtilityAppApplication - Unparseable date: "05/22/* 23"
+[INFO ]2021-04-09 05:33:13.925 [Test worker] WebUtilityAppApplication - Successfully getting events
+[INFO ]2021-04-09 05:33:13.926 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 05:33:13.927 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 05:33:13.932 [Test worker] WebUtilityAppApplication - Successfully validated
+[ERROR]2021-04-09 05:33:13.933 [Test worker] WebUtilityAppApplication - Error in creating event
+[ERROR]2021-04-09 05:33:13.935 [Test worker] WebUtilityAppApplication - calendar is null
+[ERROR]2021-04-09 05:33:13.971 [Test worker] WebUtilityAppApplication - Invalid Time zone Id
+[ERROR]2021-04-09 05:33:13.978 [Test worker] WebUtilityAppApplication - Invalid parameters
+[ERROR]2021-04-09 05:33:13.979 [Test worker] WebUtilityAppApplication - Invalid parameters
+[INFO ]2021-04-09 05:33:14.018 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 05:33:14.020 [Test worker] WebUtilityAppApplication - Successfully received users title and description
+[INFO ]2021-04-09 05:33:14.022 [Test worker] WebUtilityAppApplication - Successfully received users title and description

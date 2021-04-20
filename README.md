@@ -1,1 +1,2 @@
-# web_utility_app
+# Group 6
+Demo of CI/CD pipeline
