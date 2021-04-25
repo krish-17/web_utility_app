@@ -1,5 +1,6 @@
-# CSCI 5308 
+# Web Utility Application - CSCI5308 project 
 Advanced Software Development Concepts (https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CSCI+5308)
+Dr. Robert Hawkey (https://www.linkedin.com/in/roberthawkey?originalSubdomain=ca)
 
 •  Understood professional programming in an environment where quality is paramount.
 
