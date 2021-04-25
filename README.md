@@ -1,2 +1,2 @@
-# Group 6
-Demo of CI/CD pipeline
+# CSCI 5408
+Advanced Software Development Concepts
