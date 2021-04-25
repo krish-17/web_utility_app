@@ -1,9 +1,9 @@
 # CSCI 5308 
 Advanced Software Development Concepts (https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CSCI+5308)
 
-•  Understand professional programming in an environment where quality is paramount.
+•  Understood professional programming in an environment where quality is paramount.
 
-•  Understand the importance of integrating quality assurance into programming practices.
+•  Understood the importance of integrating quality assurance into programming practices.
 
 •  Applied Agile methodology to develop this project.
 
